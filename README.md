@@ -2,7 +2,7 @@
 
 ### Date: 
 ### Developed by: Gumma Dileep Kumar
-### Register numbers: 212222240032
+### Register number: 212222240032
 
 ### AIM:
 To Create a project on Time series analysis on National Stock Exchange using ARIMA model in  Python and compare with other models.
